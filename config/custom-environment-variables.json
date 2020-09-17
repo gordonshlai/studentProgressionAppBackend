@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "SPApp_jwtPrivateKey",
+  "db": "SPApp_db"
+}

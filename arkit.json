@@ -1,0 +1,48 @@
+{
+  "$schema": "https://arkit.pro/schema.json",
+  "components": [
+    {
+      "type": "Entry",
+      "patterns": ["*.js"]
+    },
+    {
+      "type": "Component",
+      "patterns": [
+        "middleware/**/*.js",
+        "models/**/*.js",
+        "routes/**/*.js",
+        "startup/**/*.js"
+      ],
+      "excludePatterns": ["**/__tests__/**", "**/*-test.js"]
+    }
+  ],
+  "output": {
+    "path": ["arkit.svg", "arkit.png"],
+    "groups": [
+      {
+        "first": true,
+        "components": ["Entry"],
+        "patterns": ["index.js"]
+      },
+      {
+        "type": "Middleware",
+        "patterns": ["middleware/**"]
+      },
+      {
+        "type": "Models",
+        "patterns": ["models/**"]
+      },
+      {
+        "type": "Routes",
+        "patterns": ["routes/**"]
+      },
+      {
+        "type": "Start Up",
+        "patterns": ["startup/**"]
+      },
+      {
+        "components": ["Component", "Entry"]
+      }
+    ]
+  }
+}

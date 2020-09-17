@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "1234",
+  "db": "mongodb://abcde:abcde@cluster0-shard-00-00-nonce.mongodb.net:27017,cluster0-shard-00-01-nonce.mongodb.net:27017,cluster0-shard-00-02-nonce.mongodb.net:27017/spapp2_test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "heroku": "https://immense-retreat-96106.herokuapp.com/api"
+}

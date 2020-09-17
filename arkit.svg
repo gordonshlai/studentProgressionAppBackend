@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="330px" preserveAspectRatio="none" style="width:622px;height:330px;" version="1.1" viewBox="0 0 622 330" width="622px" zoomAndPan="magnify"><defs/><g><!--MD5=[4e1a3510868d06a507f098bb08f0dae0]
+cluster Middleware--><path d="M52.5,239 L125.5,239 A4.5,4.5 0 0 1 128.5,242 L135.5,259.4844 L344.5,259.4844 A3,3 0 0 1 347.5,262.4844 L347.5,315 A3,3 0 0 1 344.5,318 L52.5,318 A3,3 0 0 1 49.5,315 L49.5,242 A3,3 0 0 1 52.5,239 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="49.5" x2="135.5" y1="259.4844" y2="259.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="73" x="53.5" y="253.0059">Middleware</text><!--MD5=[027ebfd53c01aea08f474edbf35d0797]
+cluster Models--><path d="M374.5,241 L421.5,241 A4.5,4.5 0 0 1 424.5,244 L431.5,261.4844 L523.5,261.4844 A3,3 0 0 1 526.5,264.4844 L526.5,313 A3,3 0 0 1 523.5,316 L374.5,316 A3,3 0 0 1 371.5,313 L371.5,244 A3,3 0 0 1 374.5,241 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="371.5" x2="431.5" y1="261.4844" y2="261.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="47" x="375.5" y="255.0059">Models</text><!--MD5=[a216f63574981a7e4cf6939ecabe907e]
+cluster Routes--><path d="M244.5,140 L290.5,140 A4.5,4.5 0 0 1 293.5,143 L300.5,160.4844 L607.5,160.4844 A3,3 0 0 1 610.5,163.4844 L610.5,212 A3,3 0 0 1 607.5,215 L244.5,215 A3,3 0 0 1 241.5,212 L241.5,143 A3,3 0 0 1 244.5,140 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="241.5" x2="300.5" y1="160.4844" y2="160.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="46" x="245.5" y="154.0059">Routes</text><!--MD5=[9e5a07dbeb5dceabce4e666432f6b319]
+cluster Start Up--><path d="M80.5,41 L133.5,41 A4.5,4.5 0 0 1 136.5,44 L143.5,61.4844 L415.5,61.4844 A3,3 0 0 1 418.5,64.4844 L418.5,113 A3,3 0 0 1 415.5,116 L80.5,116 A3,3 0 0 1 77.5,113 L77.5,44 A3,3 0 0 1 80.5,41 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="77.5" x2="143.5" y1="61.4844" y2="61.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="81.5" y="55.0059">Start Up</text><ellipse cx="87.5919" cy="287.242" fill="#F8F8F8" rx="22.0919" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="27" x="74.0919" y="290.9842">error</text><ellipse cx="186.7284" cy="286.9457" fill="#F8F8F8" rx="62.7284" ry="14.9457" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="95" x="139.2284" y="290.6879">middleware/auth</text><ellipse cx="297.6127" cy="287.242" fill="#F8F8F8" rx="34.1127" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="44" x="275.6127" y="290.9842">validate</text><ellipse cx="476.4056" cy="287.242" fill="#F8F8F8" rx="33.4056" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="43" x="454.9056" y="290.9842">student</text><ellipse cx="408.6777" cy="287.242" fill="#F8F8F8" rx="20.6777" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="25" x="396.1777" y="290.9842">user</text><ellipse cx="561.6985" cy="186.242" fill="#F8F8F8" rx="32.6985" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="42" x="540.6985" y="189.9842">images</text><ellipse cx="373.3762" cy="186.242" fill="#F8F8F8" rx="50.3762" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="67" x="339.8762" y="189.9842">routes/auth</text><ellipse cx="476.3553" cy="186.242" fill="#F8F8F8" rx="38.3553" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="50" x="451.3553" y="189.9842">students</text><ellipse cx="283.6274" cy="186.242" fill="#F8F8F8" rx="25.6274" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="32" x="267.6274" y="189.9842">users</text><ellipse cx="244.4558" cy="87.242" fill="#F8F8F8" rx="28.4558" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="36" x="226.4558" y="90.9842">config</text><ellipse cx="187.4434" cy="87.1547" fill="#F8F8F8" rx="14.4434" ry="12.1547" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="14" x="180.4434" y="90.8969">db</text><ellipse cx="126.6985" cy="87.242" fill="#F8F8F8" rx="32.6985" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="42" x="105.6985" y="90.9842">logging</text><ellipse cx="308.3848" cy="87.242" fill="#F8F8F8" rx="21.3848" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="26" x="295.3848" y="90.9842">prod</text><ellipse cx="373.663" cy="87.242" fill="#F8F8F8" rx="29.163" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="37" x="355.163" y="90.9842">routes</text><ellipse cx="33.7487" cy="87.242" fill="#F8F8F8" rx="27.7487" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="16.2487" y="90.9842">index</text><!--MD5=[e5db0b20f65e1e699331321af2637ed8]
+link <b>index</b> to config--><path d="M39.6487,74.035 C48.2124,57.69 65.4345,30.357 89.5,19 C112.008,8.378 179.699,6.992 201.5,19 C220.682,29.565 232.496,52.694 238.773,69.035 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;config" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="240.546,73.868,241.2029,64.0411,238.8246,69.1737,233.6919,66.7954,240.546,73.868" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[4ef995c05e45f6b9da1dbee41f7d80db]
+link <b>index</b> to db--><path d="M39.6487,74.035 C48.2124,57.69 65.4345,30.357 89.5,19 C117.233,5.912 132.413,2.878 158.5,19 C175.861,29.73 182.844,53.369 185.642,69.738 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;db" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="186.44,74.982,189.0392,65.4823,185.6871,70.039,181.1304,66.6869,186.44,74.982" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[810a8c435ddbfd5eb7b8d2b937ee26ef]
+link <b>index</b> to logging--><path d="M61.1094,87 C70.3049,87 79.5005,87 88.696,87 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;logging" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="93.8047,87,84.8047,83,88.8047,87,84.8047,91,93.8047,87" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[1d0074bcbe7a61ccd3fa176c5ccd327c]
+link <b>index</b> to prod--><path d="M39.6487,74.035 C48.2124,57.69 65.4345,30.357 89.5,19 C107.889,10.322 255.08,8.512 272.5,19 C290.287,29.709 299.746,52.481 304.433,68.72 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;prod" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="305.844,73.95,307.3606,64.2186,304.5411,69.1227,299.637,66.3032,305.844,73.95" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[fd138d533853b6a9e7a6e87d4aed7c8c]
+link <b>index</b> to routes--><path d="M39.6487,74.035 C48.2124,57.69 65.4345,30.357 89.5,19 C113.616,7.619 306.075,6.256 329.5,19 C348.865,29.535 361.014,52.671 367.522,69.022 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;routes" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="369.362,73.857,369.8989,64.0228,367.5834,69.184,362.4221,66.8686,369.362,73.857" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[4a5434ee5a3ffee4673e2a44689bd063]
+link routes to error--><path d="M365.186,99.552 C358.471,107.9 348.23,118.618 336.5,124 C300.001,140.747 283.944,117.488 246.5,132 C178.784,158.245 163.429,175.575 116.5,231 C106.734,242.5334 98.9768,257.9012 93.9516,269.4601 " fill="none" id="routes-&gt;error" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="91.9673,274.1584,99.1537,267.4237,93.9126,269.5523,91.784,264.3112,91.9673,274.1584" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f024f5427fd5e8cebb7d5b346dc73dc6]
+link routes to images--><path d="M401.349,90.837 C433.141,95.223 485.515,106.053 522.5,132 C535.875,141.383 546.478,156.824 553.231,168.625 " fill="none" id="routes-&gt;images" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="555.715,173.109,554.8545,163.2978,553.2929,168.7348,547.8558,167.1732,555.715,173.109" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[8d514797615a2b683f2c6fd4aefa6167]
+link routes to routes/auth--><path d="M373.5,100.285 C373.5,117.34 373.5,148.276 373.5,167.671 " fill="none" id="routes-&gt;routes/auth" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="373.5,172.815,377.5,163.815,373.5,167.815,369.5,163.815,373.5,172.815" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[51f74e94779196ad6c92d56484692c36]
+link routes to students--><path d="M389,98.364 C401.118,106.788 418.098,119.315 431.5,132 C443.573,143.427 455.68,157.898 464.29,168.831 " fill="none" id="routes-&gt;students" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="467.525,172.982,465.1493,163.424,464.4521,169.0377,458.8384,168.3406,467.525,172.982" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[3d3632beb5cf4ed2c5151275d2721b83]
+link routes to users--><path d="M364.11,99.32 C357.152,107.118 347.078,117.252 336.5,124 C328.08,129.371 323.166,125.598 315.5,132 C303.95,141.646 295.463,156.592 290.142,168.157 " fill="none" id="routes-&gt;users" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="288.056,172.881,295.3508,166.2639,290.0758,168.3071,288.0326,163.0322,288.056,172.881" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[4f1c24fdec0fee7b7d17d1064cada534]
+link routes/auth to user--><path d="M377.792,199.139 C384.018,216.751 395.577,249.4474 402.601,269.3134 " fill="none" id="routes/auth-&gt;user" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="404.283,274.0706,405.0546,264.252,402.6165,269.3565,397.512,266.9184,404.283,274.0706" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[7257e2d043f94da45ca7ae2490bc8394]
+link routes/auth to validate--><path d="M364.181,199.139 C350.415,217.071 324.644,250.6416 309.488,270.3843 " fill="none" id="routes/auth-&gt;validate" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="306.423,274.3767,315.0765,269.6739,309.4679,270.4108,308.731,264.8021,306.423,274.3767" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f727f60ee4959beac23781d6d88c1e90]
+link students to student--><path d="M476.5,199.139 C476.5,216.581 476.5,248.8197 476.5,268.7365 " fill="none" id="students-&gt;student" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="476.5,273.7614,480.5,264.7614,476.5,268.7614,472.5,264.7614,476.5,273.7614" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[c3ffa6e425801d4e85fdf690f94c2d96]
+link users to middleware/auth--><path d="M272.749,197.973 C256.032,215.035 223.656,248.0779 203.676,268.47 " fill="none" id="users-&gt;middleware/auth" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="200.096,272.1237,209.2518,268.4946,203.5953,268.5523,203.5376,262.8957,200.096,272.1237" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[336f84c780f1bf113f420cf567f8bfe2]
+link users to user--><path d="M291.17,198.608 C296.975,206.543 305.619,216.721 315.5,223 C326.063,229.713 331.465,225.094 342.5,231 C362.522,241.7153 382.073,259.1387 394.631,271.5013 " fill="none" id="users-&gt;user" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="398.297,275.1624,394.7552,265.9724,394.759,271.6293,389.1022,271.6332,398.297,275.1624" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e0b3e234fb043407fc295fb507ff20c1]
+link users to validate--><path d="M285.217,199.139 C287.683,216.581 292.242,248.8197 295.059,268.7365 " fill="none" id="users-&gt;validate" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="295.769,273.7614,298.4695,264.29,295.069,268.8106,290.5483,265.4101,295.769,273.7614" style="stroke: #000000; stroke-width: 0.5;"/><script type="text/plantuml"><![CDATA[MD5=[29606955a3813ef5cfea2cefa7aea89b]
+@startuml
+
+scale max 1920 width
+top to bottom direction
+
+skinparam nodesep 14
+skinparam ranksep 28
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName Tahoma
+skinparam defaultFontSize 12
+skinparam roundCorner 6
+skinparam dpi 150
+skinparam arrowColor black
+skinparam arrowThickness 0.5
+skinparam packageTitleAlignment left
+
+skinparam usecase {
+  borderThickness 0.5
+}
+
+skinparam rectangle {
+  borderThickness 0.5
+}
+
+skinparam component {
+  borderThickness 1
+}
+
+
+(<b>index</b>)
+
+package "Middleware" {
+  (error)
+  (middleware/auth)
+  (validate)
+}
+
+package "Models" {
+  (student)
+  (user)
+}
+
+package "Routes" {
+  (images)
+  (routes/auth)
+  (students)
+  (users)
+}
+
+package "Start Up" {
+  (config)
+  (db)
+  (logging)
+  (prod)
+  (routes)
+}
+
+(<b>index</b>) -[thickness=1]> (config)
+(<b>index</b>) -[thickness=1]> (db)
+(<b>index</b>) -[thickness=1]> (logging)
+(<b>index</b>) -[thickness=1]> (prod)
+(<b>index</b>) -[thickness=1]> (routes)
+(routes) --> (error)
+(routes) --> (images)
+(routes) --> (routes/auth)
+(routes) --> (students)
+(routes) --> (users)
+(routes/auth) --> (user)
+(routes/auth) --> (validate)
+(students) --> (student)
+(users) --> (middleware/auth)
+(users) --> (user)
+(users) --> (validate)
+
+@enduml
+
+
+' View and edit on https://arkit.pro
+]]></script></g></svg>
